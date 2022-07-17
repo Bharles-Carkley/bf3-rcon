@@ -1,0 +1,16 @@
+{
+    "discord": {
+        "token": "OTk3NDcxNDc1ODUyMzk0NTE2.Gn0vq7.mY2AlkW7CND4l8D-tvbfqqWf3nP6p9xPh0Vl8o",
+        "channels": {
+            "color": "BLUE",
+            "killfeed": "998257601039057019",
+            "spawnfeed": "998260698419306556",
+            "chatfeed": "998261084081377450",
+            "squadchangefeed": "998263111184298064",
+            "teamchangefeed": "998272326644797600"
+        }
+    },
+    "host": "103.1.215.230",
+    "port": "25002",
+    "password": "Battler@123"
+}

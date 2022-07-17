@@ -1,4 +1,4 @@
-const { Battlefield } = require ("../src/Battlefield")
+const { Battlefield } = require ("./src/Battlefield")
 const { Client, Intents } = require ("discord.js")
 const fs = require ('fs')
 
